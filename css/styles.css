@@ -8,6 +8,10 @@ ul {
 	text-decoration: none;
 }
 
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
 .header-inner {
 	padding: 80px 0 41px 0;
 	display: flex;
